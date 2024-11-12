@@ -1,0 +1,23 @@
+.rectangle{
+    background: rgb(0, 255, 200);
+    font-family: sans-serif;
+    width: 700px;
+    height: 200px;
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px #0000ff;
+    margin-left: 250px;
+    justify-content: center;
+}   
+.circle img{
+    border-radius: 500px;
+    width: 200px;
+    height: 200px;
+    margin-left: 460px;
+
+
+}
+p{
+    color:white ;
+
+}
